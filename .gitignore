@@ -17,7 +17,7 @@ run/
 *.ipr
 *.iws
 out/
-.idea
+# .idea
 build/*
 /bin/
 changelog.html
